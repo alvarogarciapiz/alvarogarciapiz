@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Álvaro
+- 🌱 I’m currently learning web development and Python
+- 📫 alvaro@ghostcoretech.com
