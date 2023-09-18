@@ -1,5 +1,5 @@
 # 👨🏻‍💻 About Me
-DevOps engineer at SCFGS
+DevOps & Cloud engineer at SCFGS
 
 
 # 💻 Tech Stack
