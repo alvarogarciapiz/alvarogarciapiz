@@ -13,4 +13,9 @@
   />
 </picture>
 
-
+# My Tech Stack
+<p align="left">
+    <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a> 
+</p>
