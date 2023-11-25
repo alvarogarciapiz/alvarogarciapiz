@@ -24,6 +24,7 @@
 - [AWS Certify Hub](https://github.com/alvarogarciapiz/AWS-Certify-Hub): Your all-in-one resource for AWS certification success, providing the knowledge and support you need to unlock AWS excellence and making AWS certifications accessible to all.
 - [IntelliTweet](https://github.com/alvarogarciapiz/IntelliTweet): Effortlessly share your favorite news via Al, transforming it into a tweet-ready format in seconds.
 - [GRIP](https://github.com/alvarogarciapiz/GRIPweb): Virtual store for GRIP Clothing, a sports apparel brand. Responsive design, Tailwind CSS styling, and GitHub-powered hosting.
+- [GeniusKeys](https://github.com/alvarogarciapiz/GeniusKeys): Fortify Your Digital Realm: Passwords Crafted for Strength. React app.
 
 
 ## 🌱 Learning
