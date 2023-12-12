@@ -36,5 +36,5 @@ I am always eager to learn and stay updated with the latest trends in cloud comp
 
 Connect with me on social media platforms to stay in touch and follow my journey:
 
-- Twitter: [@alvarogarciapiz](https://twitter.com/alvarogarciapiz)
+- Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)
