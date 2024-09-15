@@ -1,0 +1,111 @@
+name: [[WORKFLOW_NAME]]
+
+on:
+  [[ON_TRIGGERS]]
+
+permissions:
+  contents: write
+
+jobs:
+  validate-build:
+    runs-on: [[RUNS_ON_CONFIG]]
+    outputs:
+      JSON: ${{ steps.validate.outputs.JSON }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Validate Configurations
+        id: validate
+        uses: alvarogarciapiz/gawg-validate-build@v1
+        with:
+          technology: [[TECHNOLOGY]]
+          docker: [[DOCKER_ENABLED]]
+          self-hosted-runner: [[SELF_HOSTED_RUNNER_ENABLED]]
+          deployment: [[DEPLOYMENT_TYPE]]
+
+  build:
+    needs: validate-build
+    runs-on: [[RUNS_ON_CONFIG]]
+    outputs:
+      ARTIFACT_NAME: ${{ steps.build.outputs.ARTIFACT_NAME }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Build [[TECHNOLOGY]]
+        id: build
+        uses: alvarogarciapiz/gawg-build@v1
+        with:
+          technology: [[TECHNOLOGY]]
+          config-json: ${{ needs.validate-build.outputs.JSON }}
+
+  test:
+    needs: [validate-build, build]
+    runs-on: [[RUNS_ON_CONFIG]]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run tests for [[TECHNOLOGY]]
+        uses: alvarogarciapiz/gawg-test@v1
+        with:
+          technology: [[TECHNOLOGY]]
+          config-json: ${{ needs.validate-build.outputs.JSON }}
+
+  quality:
+    needs: [validate-build, build]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Analyze code quality
+        uses: alvarogarciapiz/gawg-quality@v1
+        with:
+          config-json: ${{ needs.validate-build.outputs.JSON }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          sonar-token: ${{ secrets.SONAR_TOKEN }}
+
+  deploy:
+    needs: [validate-build, build, test, quality]
+    uses: alvarogarciapiz/gawg-deploy/.github/workflows/deploy.yml@v1
+    with:
+      artifact-name: ${{ needs.build.outputs.ARTIFACT_NAME }}
+      docker: [[DOCKER_ENABLED]]
+      self-hosted-runner: [[SELF_HOSTED_RUNNER_ENABLED]]
+      deployment: [[DEPLOYMENT_TYPE]]
+      config-json: ${{ needs.validate-build.outputs.JSON }}
+    secrets: inherit
+
+  notify:
+    needs: [validate-build, build, test, quality, deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify via Messaging App
+        uses: alvarogarciapiz/gawg-notify@v1
+        with:
+          messaging_app: [[MESSAGING_APP]]
+          artifact_name: ${{ needs.build.outputs.ARTIFACT_NAME }}
+          technology: [[TECHNOLOGY]]
+          docker: [[DOCKER_ENABLED]]
+          self-hosted-runner: [[SELF_HOSTED_RUNNER_ENABLED]]
+          deployment: [[DEPLOYMENT_TYPE]]
+          SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+          SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+  release:
+    needs: [validate-build, build, test, quality, deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate Tag and Release
+        uses: alvarogarciapiz/gawg-release@v1
+        with:
+          config-json: ${{ needs.validate-build.outputs.JSON }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
