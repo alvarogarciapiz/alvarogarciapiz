@@ -16,7 +16,7 @@
 
 # Álvaro García Pizarro
 
-👋 Hi there, I'm Álvaro García Pizarro, a DevOps and Cloud Engineer at Santander
+👋 Hi there, I'm Álvaro García Pizarro, a DevOps and Cloud Engineer at Santander. Check my [personal portfolio](https://www.lvrpiz.com) for more info.
 
 
 ## 🚀 Projects
