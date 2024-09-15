@@ -16,21 +16,17 @@
 
 # Álvaro García Pizarro
 
-👋 Hello, I'm Álvaro García Pizarro, a DevOps and Cloud Engineer at SCFGS.
+👋 Hi there, I'm Álvaro García Pizarro, a DevOps and Cloud Engineer at Santander
 
 
 ## 🚀 Projects
 
+- [GitHub Actions Workflow Generator | GAWG ](https://gawg.lvrpiz.com): Automate your GitHub Actions with GAWG, the tool that converts your project needs into efficient GitHub Actions workflows.
 - [AWS Certify Hub](https://github.com/alvarogarciapiz/AWS-Certify-Hub): Your all-in-one resource for AWS certification success, providing the knowledge and support you need to unlock AWS excellence and making AWS certifications accessible to all.
 - [IntelliTweet](https://github.com/alvarogarciapiz/IntelliTweet): Effortlessly share your favorite news via Al, transforming it into a tweet-ready format in seconds.
-- [GRIP](https://github.com/alvarogarciapiz/GRIPweb): Virtual store for GRIP Clothing, a sports apparel brand. Responsive design, Tailwind CSS styling, and GitHub-powered hosting.
-- [GeniusKeys](https://github.com/alvarogarciapiz/GeniusKeys): Fortify Your Digital Realm: Passwords Crafted for Strength. React app.
 - [Command Show website](https://github.com/alvarogarciapiz/CommandShow-Website): Command Show [website](https://www.commandshow.lvrpiz.com/) built in React + Vite, using terraform & CI/CD to deploy to AWS.
 
 
-## 🌱 Learning
-
-I am always eager to learn and stay updated with the latest trends in cloud computing, DevOps practices, and emerging technologies.
 
 ## 🤝 Let's Connect
 
