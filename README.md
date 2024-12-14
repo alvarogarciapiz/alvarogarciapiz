@@ -26,8 +26,7 @@ Check my [personal portfolio](https://www.lvrpiz.com) for more info about me and
 - Time in Daylight for Apple Watch App: [Website](https://timeindaylight.lvrpiz.com)
 - AWS Certify Hub, learn AWS: [Website](https://alvarogarciapiz.github.io/AWS-Certify-Hub/)
 
-## Let's Connect
-
+## Find me on
 - My Mailing list: [lvrpiz Bulletin](https://www.bulletin.lvrpiz.com/subscribe)
 - Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)
