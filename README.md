@@ -21,10 +21,11 @@ Check my [personal portfolio](https://www.lvrpiz.com) for more info about me and
 
 ## Projects I've built
 
-- Stress Tracker for Apple Watch App: [Website](https://stressapp.lvrpiz.com)
+- Stress Tracker App for Apple Watch App: [Website](https://stressapp.lvrpiz.com)
+- Local Offline LLM Chat for IOS - Lapis: [Website](https://lapis.lvrpiz.com)
 - GitHub Actions Workflow generator: [Website](https://gawg.lvrpiz.com)
-- Time in Daylight for Apple Watch App: [Website](https://timeindaylight.lvrpiz.com)
 - AWS Certify Hub, learn AWS: [Website](https://alvarogarciapiz.github.io/AWS-Certify-Hub/)
+- Time in Daylight for Apple Watch App: [Website](https://timeindaylight.lvrpiz.com)
 
 ## Find me on
 - My Mailing list: [lvrpiz Bulletin](https://www.bulletin.lvrpiz.com/subscribe)
