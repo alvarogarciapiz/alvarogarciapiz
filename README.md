@@ -28,6 +28,6 @@ Check my [personal portfolio](https://www.lvrpiz.com) for more info about me and
 - Time in Daylight for Apple Watch App: [Website](https://timeindaylight.lvrpiz.com)
 
 ## Find me on
-- My Mailing list: [lvrpiz Bulletin](https://www.bulletin.lvrpiz.com/subscribe)
-- Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
+- My Mailing list: [lvrpiz Newsletter](https://www.bulletin.lvrpiz.com/subscribe)
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)
+- Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
