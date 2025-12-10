@@ -29,5 +29,5 @@ Get to know me [here](https://www.lvrpiz.com) for more info about me and my proj
 ## Find me on
 - Blog: [lvrpiz Newsletter](https://www.bulletin.lvrpiz.com/subscribe)
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)
-- 𝕏: [@lvrpiz](https://img.shields.io/twitter/follow/lvrpiz)
+- 𝕏: [@lvrpiz](https://x.com/lvrpiz)
 
