@@ -30,4 +30,4 @@ Get to know me [here](https://www.lvrpiz.com) for more info about me and my proj
 - Blog: [lvrpiz Newsletter](https://www.bulletin.lvrpiz.com/subscribe)
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)
 - 𝕏: [@lvrpiz](https://x.com/lvrpiz)
-- Collaboration or professional inquiries: [alvaro@lvrpiz.com](mailto:alvaro@lvrpiz.com)
+- Collaboration or professional inquiries: [alvaro(at)lvrpiz(dot)com](mailto:alvaro@lvrpiz.com)
