@@ -16,7 +16,7 @@
 
 # Álvaro García Pizarro
 
-I'm Álvaro García Pizarro, a DevOps and Cloud Engineer at Santander.
+I'm Álvaro García Pizarro, an AI engineer at Unicaja
 Get to know me [here](https://www.lvrpiz.com) for more info about me and my projects.
 
 ## Projects I've built
