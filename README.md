@@ -13,22 +13,29 @@
   />
 </picture>
 
-
 # Álvaro García Pizarro
 
-I'm Álvaro, an AI engineer at Unicaja.
+AI Engineer at Unicaja, working on AI platforms, architecture and production systems.
 
-Get to know me [here](https://www.lvrpiz.com) for more info about me and my projects.
+I build products around AI, software and technology, from developer tools and local AI experiments to consumer apps and real-world products.
 
-## Projects I've built
+I also write about AI, engineering and the things I learn while building.
 
-- Stress Tracker App for Apple Watch App: [Website](https://stressapp.lvrpiz.com)
-- Local Offline LLM Chat for IOS - Lapis: [Website](https://lapis.lvrpiz.com)
-- Sensivia: [Website](https://sensiviaurbana.com)
-- And many more... check all my projects [here](https://apps.lvrpiz.com)
+More about me and my work at [lvrpiz.com](https://www.lvrpiz.com).
 
-## Find me on
-- Blog: [lvrpiz Newsletter](https://lvrpiz.substack.com)
-- LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)
-- 𝕏: [@lvrpiz](https://x.com/lvrpiz)
-- Collaboration or professional inquiries: [alvaro(at)lvrpiz(dot)com](mailto:alvaro@lvrpiz.com)
+## Selected projects
+
+- **Stress for Apple Watch** · Native Apple Watch app for stress, HRV, recovery and sleep insights · [Website](https://stressapp.lvrpiz.com)
+- **Lapis** · Private, fully offline LLM chat for iOS · [Website](https://lapis.lvrpiz.com)
+- **Sensivia** · Technology for smarter urban waste management · [Website](https://sensiviaurbana.com)
+- **More projects** · [apps.lvrpiz.com](https://apps.lvrpiz.com)
+
+## Writing
+
+I write about AI, software engineering and emerging technology on [my blog](https://lvrpiz.substack.com).
+
+## Elsewhere
+
+[Website](https://www.lvrpiz.com) · [LinkedIn](https://www.linkedin.com/in/alvarogarciapiz/) · [X](https://x.com/lvrpiz)
+
+Professional inquiries: [alvaro@lvrpiz.com](mailto:alvaro@lvrpiz.com)
