@@ -16,14 +16,15 @@
 
 # Álvaro García Pizarro
 
-I'm Álvaro García Pizarro, an AI engineer at Unicaja
+I'm Álvaro, an AI engineer at Unicaja.
+
 Get to know me [here](https://www.lvrpiz.com) for more info about me and my projects.
 
 ## Projects I've built
 
 - Stress Tracker App for Apple Watch App: [Website](https://stressapp.lvrpiz.com)
 - Local Offline LLM Chat for IOS - Lapis: [Website](https://lapis.lvrpiz.com)
-- AWS P2 Practice Portal: [Website](https://aws-p2.lvrpiz.com)
+- Sensivia: [Website](https://sensiviaurbana.com)
 - And many more... check all my projects [here](https://apps.lvrpiz.com)
 
 ## Find me on
