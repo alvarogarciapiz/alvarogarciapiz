@@ -36,6 +36,6 @@ I write about AI, software engineering and emerging technology on [my blog](http
 
 ## Elsewhere
 
-[Website](https://www.lvrpiz.com) · [LinkedIn](https://www.linkedin.com/in/alvarogarciapiz/) · [X](https://x.com/lvrpiz)
+[Website](https://www.lvrpiz.com) · [LinkedIn](https://www.linkedin.com/in/lvrpiz/) · [X](https://x.com/lvrpiz)
 
 Professional inquiries: [alvaro@lvrpiz.com](mailto:alvaro@lvrpiz.com)
