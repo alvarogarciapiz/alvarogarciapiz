@@ -25,9 +25,9 @@ More about me and my work at [lvrpiz.com](https://www.lvrpiz.com).
 
 ## Selected projects
 
-- **Stress for Apple Watch** · Native Apple Watch app for stress, HRV, recovery and sleep insights · [Website](https://stressapp.lvrpiz.com)
 - **Lapis** · Private, fully offline LLM chat for iOS · [Website](https://lapis.lvrpiz.com)
 - **Sensivia** · Technology for smarter urban waste management · [Website](https://sensiviaurbana.com)
+- **Stress for Apple Watch** · Native Apple Watch app for stress, HRV, recovery and sleep insights · [Website](https://stressapp.lvrpiz.com)
 - **More projects** · [apps.lvrpiz.com](https://apps.lvrpiz.com)
 
 ## Writing
