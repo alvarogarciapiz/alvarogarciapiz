@@ -23,7 +23,7 @@ I also write about AI, engineering and the things I learn while building.
 
 More about me and my work at [lvrpiz.com](https://www.lvrpiz.com).
 
-## Selected projects
+## Projects I'm working on
 
 - **Lapis** · Private, fully offline LLM chat for iOS · [Website](https://lapis.lvrpiz.com)
 - **Sensivia** · Technology for smarter urban waste management · [Website](https://sensiviaurbana.com)
